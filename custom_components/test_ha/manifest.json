@@ -1,0 +1,14 @@
+{
+  "domain": "test_ha",
+  "name": "Test HA",
+  "codeowners": [
+    "@frcatop"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/frcatop/Test_HA_01",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/frcatop/Test_HA_01/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
